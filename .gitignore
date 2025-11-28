@@ -1,0 +1,8 @@
+# Environment variables (CRITICAL - never commit secrets)
+.env
+
+# Python virtual environment
+datainsight_env/
+
+# Python cache files
+__pycache__/
