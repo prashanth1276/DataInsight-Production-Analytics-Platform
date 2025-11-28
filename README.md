@@ -66,7 +66,7 @@ etc..
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/prashanth1276/DataInsight-Production-Analytics-Platform
+git clone https://github.com/prashanth1276/DataInsight-Production-Analytics-Platform.git
 cd DataInsight-Production-Analytics-Platform
 
 # 2. Create virtual environment
