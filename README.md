@@ -4,6 +4,9 @@ A real-time business intelligence system that processes **11,672+ sales transact
 
 ---
 
+## Dataseet
+https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
+
 ## Live Business Metrics
 
 | Metric | Value |
