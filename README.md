@@ -4,6 +4,15 @@ A real-time business intelligence system that processes **11,672+ sales transact
 
 ---
 
+## Dataset
+Download from Kaggle: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci . Once downloaded save it as online_retail.csv
+
+After that Run this:
+```bash
+python utils/extract_sample.py
+```
+---
+
 ## Live Business Metrics
 
 | Metric | Value |
